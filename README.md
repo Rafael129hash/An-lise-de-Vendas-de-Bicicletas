@@ -1,7 +1,7 @@
 # Análise de Vendas de Bicicletas
 
 ## Descrição do Projeto
-Esta análise foi realizada utilizando dados de vendas de bicicletas obtidos no Kaggle. O objetivo é explorar diferentes aspectos das vendas, respondendo a perguntas-chave que ajudam a entender o comportamento do consumidor e as tendências de mercado.
+Esta análise foi realizada utilizando dados de vendas de bicicletas obtidos no [Kaggle](https://www.kaggle.com). O objetivo é explorar diferentes aspectos das vendas, respondendo a perguntas-chave que ajudam a entender o comportamento do consumidor e as tendências de mercado.
 
 ## Perguntas que Serão Respondidas
 1. **Qual o total de vendas por cidade?**
@@ -46,5 +46,4 @@ Os resultados obtidos podem ajudar as empresas a tomar decisões estratégicas s
 ## Tecnologias Utilizadas
 - **Python**: Linguagem de programação utilizada para a análise.
 - **Pandas**: Biblioteca para manipulação de dados.
-- **Streamlit**: Biblioteca para criação de aplicações web interativas.
-- **Plotly**: Biblioteca para visualização de dados (opcional).
+- **Streamlit**: Biblioteca para criação de aplicações web interativas. [Streamlit](https://an-lise-de-vendas-de-bicicletas-ju5vtfdafafvc859v8gczq.streamlit.app/)
